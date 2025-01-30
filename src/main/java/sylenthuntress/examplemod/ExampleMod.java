@@ -1,4 +1,4 @@
-package com.example.examplemod;
+package sylenthuntress.examplemod;
 
 import net.fabricmc.api.ModInitializer;
 import org.slf4j.Logger;
