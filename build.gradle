@@ -54,7 +54,8 @@ publishMods {
         accessToken = githubToken
         repository = project.github_repo
         tagName = "release/" + fullVersion
-        commitish = "main"
+        commitish = "master"
+
         allowEmptyFiles = true
     }
 }
@@ -106,7 +107,7 @@ processResources {
             'stability'                    : stability,
             'group'                        : project.group,
             'minecraft_version'            : minecraft_version,
-            'modmenu_version'            : modmenu_version,
+            'modmenu_version'              : modmenu_version,
             'yarn_mappings'                : yarn_mappings,
             'fabric_version'               : fabric_version,
             'fabric_loader_version'        : fabric_loader_version,
