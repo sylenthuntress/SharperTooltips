@@ -9,6 +9,10 @@ public class ExampleMod implements ModInitializer {
     public static final String MOD_NAME = "ExampleMod";
     public static final Logger LOGGER = LoggerFactory.getLogger(MOD_NAME);
 
+    public static Identifier modIdentifier(String id) {
+        return Identifier.of(MOD_ID, id);
+    }
+
     public void onInitialize() {
         ExampleMod.LOGGER.info(MOD_NAME + " successfully loaded!");
     }
