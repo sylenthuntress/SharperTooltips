@@ -4,7 +4,9 @@
   "package": "sylenthuntress.enchanted_tooltips.mixin",
   "refmap": "${mod_id}.refmap.json",
   "compatibilityLevel": "JAVA_18",
-  "mixins": [],
+  "mixins": [
+    "Mixin_ItemStack"
+  ],
   "client": [],
   "server": [],
   "injectors": {
