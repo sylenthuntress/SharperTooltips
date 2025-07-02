@@ -42,13 +42,21 @@ publishMods {
         accessToken = curseforgeToken
         projectId = project.curseforge_id
         projectSlug = project.curseforge_slug
-        minecraftVersions.add(project.minecraft_version)
+
+        minecraftVersionRange {
+            start = "1.21"
+            end = "1.21.5"
+        }
     }
 
     modrinth {
         accessToken = modrinthToken
         projectId = project.modrinth_id
-        minecraftVersions.add(project.minecraft_version)
+
+        minecraftVersionRange {
+            start = "1.21"
+            end = "1.21.5"
+        }
     }
 
     github {
