@@ -16,7 +16,7 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "sylenthuntress.examplemod.ExampleMod"
+      "sylenthuntress.enchanted_tooltips.EnchantedTooltips"
     ]
   },
   "mixins": [
