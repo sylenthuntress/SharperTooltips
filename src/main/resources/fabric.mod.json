@@ -16,7 +16,7 @@
   "environment": "client",
   "entrypoints": {
     "main": [
-      "sylenthuntress.enchanted_tooltips.EnchantedTooltips"
+      "sylenthuntress.sharper_tooltips.SharperTooltips"
     ]
   },
   "mixins": [
@@ -30,7 +30,7 @@
   "custom": {
     "modmenu": {
       "links": {
-        "examplemod.discord": "${discord_invite}"
+        "sylenthuntress.discord": "${discord_invite}"
       },
       "update_checker": true
     }
