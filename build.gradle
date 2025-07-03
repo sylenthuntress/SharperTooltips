@@ -140,7 +140,7 @@ processResources {
             'discord_invite'               : discord_invite
     ]
 
-    eachFile() {
+    filesMatching(['pack.mcmeta', 'fabric.mod.json', '*.mixins.json']) {
         expand expandProps
     }
     inputs.properties(expandProps)

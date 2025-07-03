@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Fabric_Template.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Fabric_Template.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Fabric_Template.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Fabric_Template.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Enchanted_Tooltips.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Enchanted_Tooltips.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Enchanted_Tooltips.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Enchanted_Tooltips.test.iml" />
     </modules>
   </component>
 </project>
