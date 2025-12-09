@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Enchanted_Tooltips.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Enchanted_Tooltips.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Enchanted_Tooltips.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Enchanted_Tooltips.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Sharper_Tooltips.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Sharper_Tooltips.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Sharper_Tooltips.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Sharper_Tooltips.test.iml" />
     </modules>
   </component>
 </project>
